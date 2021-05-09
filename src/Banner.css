@@ -1,0 +1,41 @@
+.banner {
+    height: 50vh;
+    position: relative;
+    background: url(http://banvouchervinpearlgiare.com/wp-content/uploads/2019/08/so-dien-thoai-le-tan-dat-phong-vinpearl-nam-hoi-an-1.jpg) center center;
+}
+
+.banner__search {
+    display: flex;
+    flex-direction: column;
+}
+
+.banner__info {
+    color: #fff;
+    height: 50vh;
+    padding: 50px 50px;
+    width: 300px;
+}
+
+.banner__info>h5 {
+    margin-top: 10px;
+}
+
+.banner__info>button {
+    margin-top: 20px;
+    background-color: transparent;
+    color: white;
+    text-transform: inherit;
+    border: 1px solid #ff7779;
+    font-weight: 600;
+}
+
+.banner__info>button:hover {
+    background-color: #ff7779;
+}
+
+.banner__searchButton {
+    background-color: white !important;
+    font-weight: 900 !important;
+    color: #ff7779 !important;
+    text-transform: inherit !important;
+}
